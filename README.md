@@ -154,5 +154,5 @@ A lo largo del desarrollo, se aplicaron buenas prácticas REST, se integró Swag
 La experiencia ha sido una oportunidad de aprendizaje activo en Spring Boot 3.x, debugging avanzado y diseño backend orientado a la excelencia técnica. 
 Este foro no solo valida usuarios: valida un enfoque resiliente, metódico y comprometido con la seguridad y la calidad.
 
-🔒 El objetivo está cumplido. Y el siguiente desafío ya está en marcha.
-Realizado por Alexander Gonzalez
+🔒 
+Hecho por Adan de Jesus Restrepo Zapata
